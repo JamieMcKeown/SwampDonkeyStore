@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    .temp {
+        margin: 3% 0;
+        transform: scale(1.1);
+        margin-right: 90%;
+    }
+    .columnRight {
+       display: flex;
+       justify-content: space-between;
+       width: 30%;
+       a {
+        color: white;
+       }
+    }
+}
+

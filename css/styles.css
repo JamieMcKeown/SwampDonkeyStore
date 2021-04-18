@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+body .temp {
+  margin: 3% 0;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  margin-right: 90%;
+}
+
+body .columnRight {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 30%;
+}
+
+body .columnRight a {
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */
